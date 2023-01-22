@@ -1,0 +1,8 @@
+node_modules/
+*.lock
+*.log
+*.map
+*.plugin
+lyrics/
+/index.js
+.DS_Store
